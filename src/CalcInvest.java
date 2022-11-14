@@ -47,7 +47,7 @@ class CalcInvest {
     }
 
     public void setPercent(double percent) {
-        this.percent = percent * 1.05; // бонус
+        this.percent = percent * 1.05;
     }
 
     public double getSum() {
